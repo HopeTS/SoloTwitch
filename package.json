@@ -1,0 +1,22 @@
+{
+  "name": "solotwitch",
+  "version": "1.0.0",
+  "description": "A Chrome extension to hide view counts from Twitch.",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build:sass": "sass --watch ./src/soloTwitch.scss ./SoloTwitch/src/soloTwitch.css --style compressed"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RobbyB97/SoloTwitch.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/RobbyB97/SoloTwitch/issues"
+  },
+  "homepage": "https://SoloTwitch.github.io",
+  "devDependencies": {
+    "sass": "^1.26.5"
+  }
+}

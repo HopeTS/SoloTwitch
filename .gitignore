@@ -1,0 +1,9 @@
+# NPM stuff
+/node_modules
+
+# Ignore build files
+*.map
+.firebase/
+
+# Ignore private keys
+*.pem
