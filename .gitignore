@@ -4,6 +4,8 @@
 # Ignore build files
 *.map
 .firebase/
+*.crx
+*.zip
 
 # Ignore private keys
 *.pem
